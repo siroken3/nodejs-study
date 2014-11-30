@@ -1,0 +1,4 @@
+## inflxdb
+
+    npm install influx
+
